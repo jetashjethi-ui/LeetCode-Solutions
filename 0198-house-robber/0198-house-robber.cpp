@@ -1,15 +1,18 @@
 class Solution {
 public:
-    int maxi(vector<int>&nums,int idx,vector<int>&dp){
-        if(idx<0){return 0;}
-        if(idx==0){return nums[0];}
-        if(dp[idx]!=-1){return dp[idx];}
-        int selected=nums[idx]+maxi(nums,idx-2,dp);
-        int not_selected=maxi(nums,idx-1,dp);
-        return dp[idx]=max(selected,not_selected);
-    }
     int rob(vector<int>& nums) {
+        if(nums.size()==0){return 0;}
+        if(nums.size()==1){return nums[0];}
         vector<int>dp(nums.size(),-1);
-        return maxi(nums,nums.size()-1,dp);
+        dp[0]=nums[0];
+        for(int i=1;i<nums.size();i++){
+            int selected=nums[i];
+            if(i>=2){
+                selected=nums[i]+dp[i-2];
+            }
+            int not_selected=dp[i-1];
+            dp[i]=max(selected,not_selected);
+        }
+        return max(dp[nums.size()-1],dp[nums.size()-2]);
     }
 };
