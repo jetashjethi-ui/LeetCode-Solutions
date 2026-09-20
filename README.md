@@ -20,6 +20,7 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -49,4 +51,8 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
