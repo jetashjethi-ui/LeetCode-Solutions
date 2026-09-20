@@ -27,6 +27,7 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -38,9 +39,14 @@ Solutions of all the LeetCode questions I have solved.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
