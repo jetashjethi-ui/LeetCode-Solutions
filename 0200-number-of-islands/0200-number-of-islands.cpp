@@ -2,38 +2,25 @@
 using namespace std;
 
 class Solution {
+    void dfs(vector<vector<char>>& grid,int i,int j){
+        int m=grid.size();
+        int n=grid[0].size();
+        if(i<0||i>=m||j<0||j>=n||grid[i][j]=='0'){return;}
+        grid[i][j]='0';
+        dfs(grid,i+1,j);
+        dfs(grid,i-1,j);
+        dfs(grid,i,j+1);
+        dfs(grid,i,j-1);
+    }
 public:
     int numIslands(vector<vector<char>>& grid) {
         if(grid.empty()){return 0;}
-        int m=grid.size();
-        int n=grid[0].size();
-        vector<vector<bool>>visited(m,vector<bool>(n,false));
         int count=0;
-        int dRow[]={-1,1,0,0};
-        int dCol[]={0,0,-1,1};
-
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(visited[i][j]||grid[i][j]=='0'){continue;}
-                else{
+        for(int i=0;i<grid.size();i++){
+            for(int j=0;j<grid[0].size();j++){
+                if(grid[i][j]=='1'){
                     count++;
-                    queue<pair<int,int>>q;
-                    q.push({i,j});
-                    visited[i][j]=true;
-                    while(!q.empty()){
-                        pair<int,int>root=q.front();
-                        q.pop();
-                        int r=root.first;
-                        int c=root.second;
-                        for(int k=0;k<4;k++){
-                            int nr=r+dRow[k];
-                            int nc=c+dCol[k];
-                            if(nr>=0&&nr<m&&nc>=0&&nc<n&&grid[nr][nc]=='1'&&!visited[nr][nc]){
-                                visited[nr][nc]=true;
-                                q.push({nr,nc});
-                            }
-                        }
-                    }
+                    dfs(grid,i,j);
                 }
             }
         }
