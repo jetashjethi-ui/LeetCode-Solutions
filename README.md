@@ -30,6 +30,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0130-surrounded-regions](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
 |  |
@@ -88,6 +90,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
