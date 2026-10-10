@@ -19,6 +19,7 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -59,6 +60,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -72,6 +74,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
