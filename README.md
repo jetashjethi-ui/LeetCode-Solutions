@@ -19,6 +19,7 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -71,6 +72,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
@@ -115,5 +117,6 @@ Solutions of all the LeetCode questions I have solved.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
