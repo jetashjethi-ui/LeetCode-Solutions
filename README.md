@@ -20,6 +20,7 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0015-3sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -124,6 +125,7 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0015-3sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
