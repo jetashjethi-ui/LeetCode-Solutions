@@ -24,6 +24,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -78,6 +79,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -122,4 +124,8 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
