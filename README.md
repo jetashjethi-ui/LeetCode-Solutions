@@ -18,6 +18,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -120,6 +121,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -130,4 +132,8 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
