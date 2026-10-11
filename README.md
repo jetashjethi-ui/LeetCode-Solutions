@@ -36,6 +36,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0198-house-robber](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -136,9 +137,19 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
