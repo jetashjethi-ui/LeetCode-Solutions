@@ -43,6 +43,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -147,6 +148,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -186,4 +188,8 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
