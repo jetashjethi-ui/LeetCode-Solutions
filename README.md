@@ -10,6 +10,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -41,6 +42,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -64,6 +66,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0152-maximum-product-subarray](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
@@ -71,6 +74,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -191,5 +195,6 @@ Solutions of all the LeetCode questions I have solved.
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
