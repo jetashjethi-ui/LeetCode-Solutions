@@ -10,6 +10,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -20,6 +21,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0031-next-permutation) |
@@ -171,6 +173,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
