@@ -14,6 +14,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1901-find-a-peak-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1901-find-a-peak-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1901-find-a-peak-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
