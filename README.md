@@ -57,6 +57,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
@@ -203,4 +204,16 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
