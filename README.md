@@ -87,6 +87,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0048-rotate-image](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [1922-count-good-numbers](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -224,4 +225,8 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
