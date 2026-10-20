@@ -33,6 +33,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -102,6 +103,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0063-unique-paths-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -112,6 +114,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -210,11 +213,13 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
