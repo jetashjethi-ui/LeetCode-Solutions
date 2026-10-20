@@ -155,6 +155,7 @@ Solutions of all the LeetCode questions I have solved.
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -207,10 +208,12 @@ Solutions of all the LeetCode questions I have solved.
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Bracket Sequences
 |  |
