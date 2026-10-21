@@ -75,6 +75,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0213-house-robber-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -228,8 +231,13 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
