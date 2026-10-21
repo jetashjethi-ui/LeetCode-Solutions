@@ -41,6 +41,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -80,6 +81,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0045-jump-game-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
