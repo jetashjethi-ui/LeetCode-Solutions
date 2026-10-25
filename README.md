@@ -165,6 +165,7 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -219,6 +220,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
@@ -240,4 +242,8 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
