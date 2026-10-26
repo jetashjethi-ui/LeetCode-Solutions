@@ -172,6 +172,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0076-minimum-window-substring](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0678-valid-parenthesis-string](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -251,4 +253,5 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
