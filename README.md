@@ -54,6 +54,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1901-find-a-peak-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0048-rotate-image](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
@@ -169,6 +171,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0128-longest-consecutive-sequence](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +217,7 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -246,4 +250,5 @@ Solutions of all the LeetCode questions I have solved.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [1248-count-number-of-nice-subarrays](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
