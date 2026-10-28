@@ -128,6 +128,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0210-course-schedule-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -139,6 +140,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0542-01-matrix](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -155,6 +157,7 @@ Solutions of all the LeetCode questions I have solved.
 | [0207-course-schedule](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,8 +268,17 @@ Solutions of all the LeetCode questions I have solved.
 | ------- |
 | [0207-course-schedule](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/jetashjethi-ui/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
